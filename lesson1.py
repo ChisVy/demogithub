@@ -5,3 +5,5 @@
 first_name = "Vỹ"
 print (f"Tên mình là {first_name}")
 print (f"Thích thấy chưa ông")
+a=int(input("Co: 1\ khong: 0")
+
