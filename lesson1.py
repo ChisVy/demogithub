@@ -4,3 +4,4 @@
 # String 
 first_name = "Vỹ"
 print (f"Tên mình là {first_name}")
+print (f"Thích thấy chưa ông")
